@@ -1,3 +1,47 @@
+/* Global */
+.container {
+  padding-bottom: 50px;
+}
 
+/* Splash */
+.splash {
+  background-color: rgb(216, 191, 30);
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+.splash-inner {
+  text-align: center;
+}
+
+/* Nvigation */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+}
+
+.navbar li .brand {
+  padding-right: 100px;
+}
+
+.navbar a {
+  text-decoration: none;
+  padding-left: 20px;
+}
+
+/* Buttons */
+.btn {
+  background: black;
+  padding: 16px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: none;
+  border-width: 20px;
+  border-style: solid black;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxXQUFBO0FBQ0E7RUFDSSxvQkFBQTtBQ0NKOztBRENBLFdBQUE7QUFDQTtFQUNJLG1DQUFBO0FDRUo7O0FEQUE7RUFDSSxrQkFBQTtBQ0dKOztBRERBLGNBQUE7QUFDQTtFQUNJLGFBQUE7RUFDQSw4QkFBQTtBQ0lKOztBREZBO0VBQ0ksZ0JBQUE7RUFDQSxhQUFBO0FDS0o7O0FESEE7RUFDSSxvQkFBQTtBQ01KOztBREpBO0VBQ0kscUJBQUE7RUFDQSxrQkFBQTtBQ09KOztBRExBLFlBQUE7QUFDQTtFQUNJLGlCQUFBO0VBQ0EsYUFBQTtFQUNBLFlBQUE7RUFDQSxlQUFBO0VBQ0Esa0JBQUE7RUFDQSxxQkFBQTtFQUNBLGtCQUFBO0VBQ0EseUJBQUE7QUNRSiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
