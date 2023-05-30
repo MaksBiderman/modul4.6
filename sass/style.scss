@@ -101,6 +101,34 @@ section {
     margin-bottom: 20px;
     padding-bottom: 5px; 
 }
+/* Footer */
+.page-footer {
+    padding: 17px 0;
+}
+.page-footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 0;
+  }
+  
+  .page-footer li .social {
+    margin: 0 10px;
+    font-size: 20px;
+    border: solid;
+    border-radius: 50%;
+    padding: 5px;
+    color: white;
+    background: black;
+
+  }
+  .page-footer li:first-child {
+    margin-right: auto;
+  }
 
 /* Buttons */
 .btn {
